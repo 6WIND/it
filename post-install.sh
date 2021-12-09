@@ -24,7 +24,7 @@ UseDNS no
 PasswordAuthentication no
 PermitRootLogin without-password
 AllowUsers root
-Match Host 127.0.0.0/8,10.0.0.0/8,62.23.145.78,82.239.227.254,84.14.106.46
+Match Host 127.0.0.0/8,10.0.0.0/8,185.13.181.2
   PasswordAuthentication yes
   AllowUsers *
 EOF
